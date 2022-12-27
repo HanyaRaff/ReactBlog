@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "My Second Web",
+      "body": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.",
+      "author": "Raffly"
+    },
+    {
+      "title": "Dia Yang Mengambil hatiku",
+      "body": "Dia Adalah wanita yang sheesh",
+      "author": "Raffly",
+      "id": 3
+    },
+    {
+      "title": "Ayam Goreng Beracun",
+      "body": "Diketahui 2 + 2 = 4, Siapakah Nama presiden ke 7?",
+      "author": "Raffly",
+      "id": 4
+    }
+  ]
+}
